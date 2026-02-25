@@ -27,7 +27,7 @@ const BOARD_NAME = 'b';
 /* =========================
    CONFIGURAÇÃO ANTI-SPAM GLOBAL (baseada em sessão)
    ========================= */
-const ANTI_SPAM_TIME = 1; // Tempo em segundos entre posts (QUALQUER post - tópico novo ou resposta)
+const ANTI_SPAM_TIME = 10; // Tempo em segundos entre posts (QUALQUER post - tópico novo ou resposta)
 
 /* =========================
    CONFIGURAÇÃO DE PROCESSAMENTO DE IMAGEM E SEGURANÇA
@@ -37,7 +37,7 @@ const FULL_IMAGE_QUALITY = 85;
 const THUMB_MAX_WIDTH = 250;
 const THUMB_MAX_HEIGHT = 250;
 const MAX_IMAGE_DIMENSIONS = 2500;
-const USE_WEBP = true;
+const USE_WEBP = false;
 const GENERATE_THUMBNAILS = true;
 const ENABLE_LAZY_LOADING = true;
 const VIDEO_MAX_SIZE = '250x250';
