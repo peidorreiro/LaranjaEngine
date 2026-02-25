@@ -1,5 +1,4 @@
-[![LaranjaEngine](https://files.catbox.moe/8clh3g.png "LaranjaEngine")](https://files.catbox.moe/8clh3g.png "LaranjaEngine")
-
+[![LaranjaEngine](https://files.catbox.moe/fb25km.png "LaranjaEngine")](https://files.catbox.moe/fb25km.png "LaranjaEngine")
 ------------
 # como que instala isso?
 
