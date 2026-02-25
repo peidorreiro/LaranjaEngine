@@ -25,6 +25,6 @@ provavelmente vou fazer essa página ficar bonita.
 FOR ENGLISH SPEAKERS
 
 to install this engine you need  git installed and run
-"https://github.com/peidorreiro/LaranjaEngine.git"
+"git clone https://github.com/peidorreiro/LaranjaEngine.git"
 after that type "cd LaranjaEngine" and begin the installation by typing "./ instalar.sh"
 or sudo ./instalar.sh if you're on a computer.
