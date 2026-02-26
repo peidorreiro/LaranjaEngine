@@ -9,19 +9,19 @@ depois entre na pasta digitando "cd LaranjaEngine" e depois digite "./instalar.s
 ou "sudo  ./instalar" se você estiver usando um computador.
 
 
-------------
-
-
-
-
-
-
-
-
-provavelmente vou fazer essa página ficar bonita.
-
 ---------
 
+
+DEPENDÊNCIAS/DEPENDENCIES
+
+PHP-GD
+PHP
+FFMPEG
+
+
+
+use o install.sh se você tem preguiça. / use install.sh if you're lazy.
+---
 FOR ENGLISH SPEAKERS
 
 to install this engine you need  git installed and run
@@ -32,3 +32,4 @@ or sudo ./instalar.sh if you're on a computer.
 ### MIRRORS
 https://codeberg.org/peidorreiro/LaranjaEngine
 https://github.com/peidorreiro/LaranjaEngine
+
