@@ -1,13 +1,13 @@
 clear
 echo "atualizando pacotes/updating packages..."
 sleep 2
-apt update && apt upgrade -y
+apt update
 sleep 2
 clear
 echo "instalando os pacotes necessários.../installing the required packages..."
 sleep 2
 clear
-apt install tor nginx php php-gd ffmpeg
+apt install nginx php php-gd ffmpeg
 sleep 2
 clear
 echo "rodando uma sessão para você testar a engine no localhost porta 8082, se quiser apagar todos os seus posts digite \"rm b/uploads/message_board.db\" use nginx se for hospedar isso para outras pessoas./ running a testing session for you to test the engine, if you're going to host this for other people please use nginx instead! to delete all your posts run \"rm b/uploads/message_board.db\""
